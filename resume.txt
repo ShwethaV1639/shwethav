@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shwetha Portfolio</title>
+    <link rel="stylesheet" href="layout.css">
+</head>
+<body>
+    <header>
+        <div class="container" >
+ <!-- <img src="women image.jpg" width="230" heigth="150"> -->
+            <h1>Shwetha.V</h1>
+            <nav>
+                <ul>
+                    <li><a href="#Education">Education</a></li>
+                    <li><a href="#Skills">Skills</a></li>
+                    <li><a href="#Projects">Projects</a></li>
+                    <li><a href="#Certifications">Certifications</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="Education">
+        <div class="container">
+            <h2>Education</h2>
+            <h3>Masters of computer application(pursuing)</h3>
+            <p>jyoti Nivas College autonomous,Bangalore</p>
+            <p>2023-2025</p>
+            <p>Pursuing</p>
+
+            <h3>Bachelors of computer science</h3>
+            <p>The National College autonomous,Bangalore</p>
+            <p>2017-2020</p>
+            <p>Percentage:61.86%</p>
+
+            <h3>Pre University</h3>
+            <p>The Vijaya pre university,Bangalore</p>
+            <p>2015-2017</p>
+            <p>Percentage:70.66%</p>
+
+            <h3>Schooling</h3>
+            <p>Shri Sharada Vidyaniketan,Bangalore</p>
+            <p>2015</p>
+            <p>Percentage:86.40%</p>
+        </div>
+    </section>
+
+    <section id="Skills">
+        <div class="container">
+            <h2>Skills</h2>
+            <div class="Skills">
+                <p>Java</p>
+                <p>C </p>
+                <p>HTML</p>
+                <p>Mysql </p>
+                
+            </div>
+        </div>
+    </section>
+
+    <section id="Projects">
+        <div class="container">
+            <h2>Projects</h2>
+            <p>Mini project on pet shop management system</p>
+        </div>
+    </section>
+
+    <section id="Certifications">
+        <div class="container">
+            <h2>Certifications</h2>
+            <p>Regional level seminar on HIBERNATE.</p>
+        </div>
+    </section>
+
+     <section id="Languages known"> 
+        <div class="container">
+            <h2>Languages known</h2>
+            <p>English</p>
+            <p>Kannada</p>
+            <p>Tamil</p>
+        </div>
+     </section> 
+
+     <section id="Languages known"> 
+        <div class="container">
+            <h2>Declaration</h2>
+      <p>I hereby declare that the above mentioned information is true to the best of my knowledge.</p>
+    </div>
+    </section> 
+
+</body>
+</html>
